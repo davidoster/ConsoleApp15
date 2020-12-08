@@ -53,6 +53,7 @@ namespace ConsoleApp15
             //x = s;
             Program p = new Program();
             //p.DivideTwoIntegers(2, 3, out int remainder);
+            Program p2 = new Program();
             ////DivideTwoIntegers(1, 2, out int remainders2);
             //CalcInts mySum = p.Sum;
             //mySum(1, 2);
